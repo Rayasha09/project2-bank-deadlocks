@@ -1,0 +1,1 @@
+ordered eaten= [10, 10, 10, 10, 10] stuck= 0 max_wait_seconds= 1.3e-05

@@ -1,0 +1,2 @@
+cashier1 Обнаружена взаимоблокировка: цикл ожидания
+TrackedLock test completed

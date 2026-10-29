@@ -1,0 +1,1 @@
+naive eaten= [0, 0, 0, 0, 0] stuck= 5 max_wait_seconds= 0.0
